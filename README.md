@@ -7,7 +7,7 @@ a tool for discord which can change your custom_status after the specified time
 - node https://nodejs.dev/en/download/
 
 ### tutorial of building
-- `git clone https://github.com/AkameTheCoder/animated-custom-status.git`
+- `git clone https://github.com/AkameTheCoder/animated-tatus.git`
 - `cd animated-custom-status`
 - `npm i fetch`
 - in case you get an error related to fs just try to run `npm i fs`
