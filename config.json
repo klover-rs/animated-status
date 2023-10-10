@@ -1,0 +1,11 @@
+{
+    "token": "your token here",
+    "set_time_interval_sec": 30,
+    "statusMessage": [
+        "message 1",
+        "message 2",
+        "message 3",
+
+    ]
+    
+}
