@@ -50,4 +50,6 @@ and finally the last property we have is statusMessage, here you can define the 
 
 Have fun using this tool! even tho this project is already done for me, there might come some extras in the future, who knows :)
 
+**This might break your discord mobile notifications, as long as the program is running**
+
 
